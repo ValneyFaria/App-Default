@@ -1,4 +1,4 @@
-package com.valneyfaria.estudosdetestesunitarios
+package com.valneyfaria.helperapp
 
 import org.junit.Test
 

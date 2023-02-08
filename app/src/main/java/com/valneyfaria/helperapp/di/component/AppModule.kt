@@ -1,6 +1,6 @@
-package com.valneyfaria.estudosdetestesunitarios.di.component
+package com.valneyfaria.helperapp.di.component
 
-import com.valneyfaria.estudosdetestesunitarios.ui.home.HomeFragmentViewModel
+import com.valneyfaria.helperapp.ui.home.HomeFragmentViewModel
 import org.koin.androidx.viewmodel.dsl.viewModel
 import org.koin.dsl.module
 
